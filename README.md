@@ -29,7 +29,7 @@ This project demonstrates client–server communication where two users can send
 ## 📂 Project Structure
 
 
-
+...
 src/
 ├─ chatting.application/
 │   ├─ Client.java
@@ -79,7 +79,8 @@ Start sending messages between the two windows 🎉
 - Messages appear instantly on both sides
 - Scroll enabled for long conversations
 
-*(You can add screenshots here later)*
+<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/8d1ba2fe-343f-430d-8de3-23411c8d8e52" />
+
 
 ---
 

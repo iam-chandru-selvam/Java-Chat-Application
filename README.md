@@ -26,22 +26,26 @@ This project demonstrates client–server communication where two users can send
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure (Source Code Layout)
 
 
-...
-src/
-├─ chatting.application/
-│   ├─ Client.java
-│   └─ Server.java
+Chatting-Application/
 │
-└─ icons/
-├─ 1.png
-├─ 2.png
-├─ 3.png
-├─ phone.png
-├─ video.png
-└─ ...
+├── src/
+│   ├── chatting.application/
+│   │   ├── Client.java
+│   │   └── Server.java
+│   │
+│   └── icons/
+│       ├── 1.png
+│       ├── 2.png
+│       ├── 3.png
+│       ├── phone.png
+│       ├── video.png
+│       └── ...
+│
+└── README.md
+
 
 
 
@@ -49,8 +53,16 @@ src/
 
 ## ▶️ How to Run
 
-### Step 1:
-Open the project in **IntelliJ / Eclipse**
+### Step 1: Clone the Repository
+
+Open terminal/command prompt and run:
+git clone https://github.com/iam-chandru-selvam/Java-Chat-Application.git
+
+### Step 2: Open in IDE
+
+Open the project folder in:
+- IntelliJ IDEA  or
+- Eclipse
 
 ### Step 2:
 Run the server first:

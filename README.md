@@ -116,7 +116,7 @@ This project is useful for:
 
 ## 👨‍💻 Author
 
-**Chandru (Dru)**  
+**Chandru Selvam**  
 Computer Science Student  
 
 ---

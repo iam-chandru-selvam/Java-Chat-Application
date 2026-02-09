@@ -54,7 +54,10 @@ Chatting-Application/
 ### Step 1: Clone the Repository
 
 Open terminal/command prompt and run:
+
+```
 git clone https://github.com/iam-chandru-selvam/Java-Chat-Application.git
+```
 
 ### Step 2: Open in IDE
 

@@ -26,9 +26,9 @@ This project demonstrates client–server communication where two users can send
 
 ---
 
-## 📂 Project Structure (Source Code Layout)
+## 📁 Project Structure (Source Code Layout)
 
-
+```
 Chatting-Application/
 │
 ├── src/
@@ -45,9 +45,7 @@ Chatting-Application/
 │       └── ...
 │
 └── README.md
-
-
-
+```
 
 ---
 
